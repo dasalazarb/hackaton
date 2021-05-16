@@ -1,0 +1,4 @@
+http://rstudio-pubs-static.s3.amazonaws.com/368478_bf9700befeba4283a4640a9a1285af22.html
+https://www.kaggle.com/corochann/optuna-tutorial-for-hyperparameter-optimization
+https://zindi.africa/learning/hyperparameter-optimization-techniques-to-improve-your-machine-learning-models-performance
+https://towardsdatascience.com/how-to-make-your-model-awesome-with-optuna-b56d490368af
