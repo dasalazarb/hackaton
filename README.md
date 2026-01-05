@@ -1,4 +1,4 @@
-# Reservoir Analytics Pipeline
+# Hackaton Analytics Pipeline
 
 This repository contains a cleaned-up, end-to-end workflow for predicting reservoir `FLUIDTYPE` and estimating recovery factor (`RF`) values from the provided training and test CSV files.
 
